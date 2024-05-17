@@ -15,6 +15,8 @@ Stay tuned for upcoming projects! As I progress in my learning journey, I'll be 
 
 - **Supervised Folder**: Inside the repository, you can find a folder named "Supervised" where you'll discover examples of Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN).
 
+- **Unsupervised Folder**: Inside the repository, you can find a folder named "Unsupervised" where you'll discover examples of Self Organizing Map (SOM) and more to come.
+
 ## Resources
 I'll be curating a list of useful resources, including tutorials, articles, books, and online courses, to help you get started or enhance your understanding of deep learning concepts.
 
